@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+*.pyc
+PLAN.md
+REFERENCE.md
+benchmark-papers.md

@@ -163,37 +163,39 @@ The local residual analysis, which is independent of the regression model specif
 
 Sensitivity analyses demonstrated that the apparent associations were artefacts of model specification (Figure 3).
 
-**Poisson versus negative binomial:** Poisson regression produced nominally significant p-values for both sexes, but these were unreliable due to severe overdispersion (deviance/df = 71-89). Negative binomial regression, with deviance/df near 1.0, provided appropriate variance estimation (Table 4).
+**Poisson versus negative binomial:** Poisson regression produced nominally significant p-values for both sexes with artificially narrow confidence intervals (e.g., male IRR 0.987, 95% CI 0.985-0.989), but these were unreliable due to severe overdispersion (deviance/df = 71-89). Negative binomial regression, with deviance/df near 1.0, provided appropriate variance estimation (Table 4).
 
 **Table 4. Poisson vs Negative Binomial Comparison**
 
 | Sex | Model | IRR | 95% CI | p-value | Deviance/df |
 |-----|-------|-----|--------|---------|-------------|
-| Male | Poisson | 0.987 | -- | <0.001 | 71.1 |
+| Male | Poisson | 0.987 | 0.985-0.989* | <0.001 | 71.1 |
 | Male | Negative Binomial | 0.966 | 0.944-0.989 | 0.004 | 0.99 |
-| Female | Poisson | 1.005 | -- | 0.002 | 89.0 |
+| Female | Poisson | 1.005 | 1.002-1.008* | 0.002 | 89.0 |
 | Female | Negative Binomial | 1.024 | 1.000-1.050 | 0.055 | 0.95 |
+
+*Poisson CIs are artificially narrow due to severe overdispersion (deviance/df >> 1) and should not be used for inference.
 
 **Spline flexibility:** To isolate the effect of spline flexibility, the dispersion parameter alpha was held constant at the primary estimate while varying the spline degrees of freedom. For males, the IRR was 1.042 (p < 0.001) at df = 3 but reversed to 0.966 (p = 0.004) at df = 9 (the AIC-selected value). For females, the IRR was 0.962 (p = 0.001) at df = 3 but reversed to 1.024 (p = 0.055) at df = 9. The complete reversal of effect direction for both sexes as the spline becomes more flexible strongly suggests that the apparent associations are artefacts of how the age-mortality curve is modelled, not genuine biological signals (Table 5).
 
 **Table 5. Sensitivity to Spline Degrees of Freedom (alpha held constant)**
 
-| Sex | df | IRR | p-value | Direction |
-|-----|-----|-----|---------|-----------|
-| Male | 3 | 1.042 | <0.001 | Higher |
-| Male | 5 | 1.037 | 0.001 | Higher |
-| Male | 7 | 1.027 | 0.019 | Higher |
-| Male | 9 | 0.966 | 0.004 | Lower |
-| Female | 3 | 0.962 | 0.001 | Lower |
-| Female | 5 | 0.970 | 0.012 | Lower |
-| Female | 7 | 1.014 | 0.264 | n.s. |
-| Female | 9 | 1.024 | 0.055 | n.s. |
+| Sex | df | IRR | 95% CI | p-value | Direction |
+|-----|-----|-----|--------|---------|-----------|
+| Male | 3 | 1.042 | 1.019-1.065 | <0.001 | Higher |
+| Male | 5 | 1.037 | 1.014-1.061 | 0.001 | Higher |
+| Male | 7 | 1.027 | 1.004-1.051 | 0.019 | Higher |
+| Male | 9 | 0.966 | 0.944-0.989 | 0.004 | Lower |
+| Female | 3 | 0.962 | 0.939-0.985 | 0.001 | Lower |
+| Female | 5 | 0.970 | 0.947-0.993 | 0.012 | Lower |
+| Female | 7 | 1.014 | 0.990-1.039 | 0.264 | n.s. |
+| Female | 9 | 1.024 | 1.000-1.050 | 0.055 | n.s. |
 
-**Historical era:** No era showed a consistent yakudoshi effect. For males, the growth (1961-1990) and modern (1991-2024) eras showed significantly *lower* mortality at yakudoshi ages (IRR 0.960, p < 0.001 and IRR 0.971, p < 0.001, respectively), while the postwar era was non-significant (IRR 0.979, p = 0.419). For females, only the modern era reached nominal significance (IRR 1.022, p = 0.005). The opposite directions between sexes and inconsistency across eras argue against a genuine effect.
+**Historical era:** No era showed a consistent yakudoshi effect. For males, the growth (1961-1990) and modern (1991-2024) eras showed significantly *lower* mortality at yakudoshi ages (IRR 0.960, 95% CI 0.941-0.980, p < 0.001 and IRR 0.971, 95% CI 0.956-0.986, p < 0.001, respectively), while the postwar era was non-significant (IRR 0.979, 95% CI 0.930-1.031, p = 0.419). For females, only the modern era reached nominal significance (IRR 1.022, 95% CI 1.007-1.038, p = 0.005). The opposite directions between sexes and inconsistency across eras argue against a genuine effect.
 
-**Kazoedoshi conversion:** Using offset 2 instead of offset 1 rendered both sexes non-significant (male IRR 0.978, p = 0.059; female IRR 1.012, p = 0.356), indicating that the primary results are sensitive to the age conversion assumption.
+**Kazoedoshi conversion:** Using offset 2 instead of offset 1 rendered both sexes non-significant (male IRR 0.978, 95% CI 0.955-1.001, p = 0.059; female IRR 1.012, 95% CI 0.987-1.038, p = 0.356), indicating that the primary results are sensitive to the age conversion assumption.
 
-**Age range:** Narrowing to ages 20-70 eliminated significance for both sexes (male IRR 1.004, p = 0.748; female IRR 1.003, p = 0.804). Widening to 15-90 also rendered both non-significant (male IRR 0.985, p = 0.230; female IRR 1.022, p = 0.109). The primary results were thus specific to the 15-80 age range and did not generalise.
+**Age range:** Narrowing to ages 20-70 eliminated significance for both sexes (male IRR 1.004, 95% CI 0.981-1.026, p = 0.748; female IRR 1.003, 95% CI 0.978-1.030, p = 0.804). Widening to 15-90 also rendered both non-significant (male IRR 0.985, 95% CI 0.961-1.010, p = 0.230; female IRR 1.022, 95% CI 0.995-1.049, p = 0.109). The primary results were thus specific to the 15-80 age range and did not generalise.
 
 **Local residual window:** Varying the neighbour window from +/-2 to +/-5 ages produced consistent null results for males (Cohen's d < 0.03 for all windows). For females, however, Cohen's d changed direction and magnitude across windows (d = +0.03 at +/-2, +0.11 at +/-3, -0.10 at +/-4, -0.23 at +/-5), indicating that the female local residual result is sensitive to the choice of reference window and does not represent a robust finding.
 

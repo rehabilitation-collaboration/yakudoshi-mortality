@@ -585,28 +585,33 @@ def format_results_table(results: dict) -> str:
         # Poisson vs NB
         lines.append("  Poisson vs NB:")
         for fam, r in sex_r["sensitivity_family"].items():
-            lines.append(f"    {fam}: IRR={r['irr']:.4f}, p={r['p_value']:.6f}, "
+            ci = f"({r['irr_ci_low']:.4f}-{r['irr_ci_high']:.4f})"
+            lines.append(f"    {fam}: IRR={r['irr']:.4f} {ci}, p={r['p_value']:.6f}, "
                          f"deviance/df={r['deviance_ratio']:.2f}")
 
         # Sensitivity: spline df
         lines.append("  Spline df sensitivity:")
         for df_val, r in sex_r["sensitivity_spline_df"].items():
-            lines.append(f"    df={df_val}: IRR={r['irr']:.4f}, p={r['p_value']:.4f}")
+            ci = f"({r['irr_ci_low']:.4f}-{r['irr_ci_high']:.4f})"
+            lines.append(f"    df={df_val}: IRR={r['irr']:.4f} {ci}, p={r['p_value']:.4f}")
 
         # Sensitivity: offset
         lines.append("  Kazoedoshi offset sensitivity:")
         for offset, r in sex_r["sensitivity_offset"].items():
-            lines.append(f"    offset={offset}: IRR={r['irr']:.4f}, p={r['p_value']:.4f}")
+            ci = f"({r['irr_ci_low']:.4f}-{r['irr_ci_high']:.4f})"
+            lines.append(f"    offset={offset}: IRR={r['irr']:.4f} {ci}, p={r['p_value']:.4f}")
 
         # Sensitivity: era
         lines.append("  Era sensitivity:")
         for era, r in sex_r["sensitivity_era"].items():
-            lines.append(f"    {era}: IRR={r['irr']:.4f}, p={r['p_value']:.4f}")
+            ci = f"({r['irr_ci_low']:.4f}-{r['irr_ci_high']:.4f})"
+            lines.append(f"    {era}: IRR={r['irr']:.4f} {ci}, p={r['p_value']:.4f}")
 
         # Sensitivity: age range
         lines.append("  Age range sensitivity:")
         for label, r in sex_r["sensitivity_age_range"].items():
-            lines.append(f"    {label}: IRR={r['irr']:.4f}, p={r['p_value']:.4f}")
+            ci = f"({r['irr_ci_low']:.4f}-{r['irr_ci_high']:.4f})"
+            lines.append(f"    {label}: IRR={r['irr']:.4f} {ci}, p={r['p_value']:.4f}")
 
         # Sensitivity: residual window
         lines.append("  Residual window sensitivity:")

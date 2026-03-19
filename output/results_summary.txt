@@ -18,24 +18,24 @@ Total deaths (female, ages 15-80): 16,635,743
     Age 60: IRR=0.9916 (0.9534-1.0315) p=0.6760
   Local residual: d=+0.0239, p(perm)=0.3770
   Poisson vs NB:
-    poisson: IRR=0.9870, p=0.000000, deviance/df=71.05
-    negative_binomial: IRR=0.9661, p=0.003791, deviance/df=0.99
+    poisson: IRR=0.9870 (0.9846-0.9894), p=0.000000, deviance/df=71.05
+    negative_binomial: IRR=0.9661 (0.9438-0.9889), p=0.003791, deviance/df=0.99
   Spline df sensitivity:
-    df=3: IRR=1.0416, p=0.0004
-    df=5: IRR=1.0374, p=0.0013
-    df=7: IRR=1.0272, p=0.0194
-    df=9: IRR=0.9661, p=0.0038
+    df=3: IRR=1.0416 (1.0185-1.0653), p=0.0004
+    df=5: IRR=1.0374 (1.0144-1.0610), p=0.0013
+    df=7: IRR=1.0272 (1.0044-1.0506), p=0.0194
+    df=9: IRR=0.9661 (0.9438-0.9889), p=0.0038
   Kazoedoshi offset sensitivity:
-    offset=1: IRR=0.9661, p=0.0038
-    offset=2: IRR=0.9775, p=0.0592
+    offset=1: IRR=0.9661 (0.9438-0.9889), p=0.0038
+    offset=2: IRR=0.9775 (0.9546-1.0009), p=0.0592
   Era sensitivity:
-    postwar (1947-1960): IRR=0.9789, p=0.4189
-    growth (1961-1990): IRR=0.9604, p=0.0001
-    modern (1991-2024): IRR=0.9707, p=0.0001
+    postwar (1947-1960): IRR=0.9789 (0.9295-1.0309), p=0.4189
+    growth (1961-1990): IRR=0.9604 (0.9410-0.9802), p=0.0001
+    modern (1991-2024): IRR=0.9707 (0.9559-0.9857), p=0.0001
   Age range sensitivity:
-    15-80 (primary): IRR=0.9661, p=0.0038
-    20-70 (narrow): IRR=1.0037, p=0.7484
-    15-90 (wide): IRR=0.9851, p=0.2295
+    15-80 (primary): IRR=0.9661 (0.9438-0.9889), p=0.0038
+    20-70 (narrow): IRR=1.0037 (0.9814-1.0264), p=0.7484
+    15-90 (wide): IRR=0.9851 (0.9612-1.0095), p=0.2295
   Residual window sensitivity:
     window=+-2: d=+0.0008, p(perm)=0.5184
     window=+-3: d=+0.0239, p(perm)=0.3770
@@ -55,26 +55,27 @@ Total deaths (female, ages 15-80): 16,635,743
     Age 60: IRR=0.9907 (0.9453-1.0382) p=0.6946
   Local residual: d=+0.1073, p(perm)=0.0317
   Poisson vs NB:
-    poisson: IRR=1.0049, p=0.001990, deviance/df=88.96
-    negative_binomial: IRR=1.0244, p=0.054717, deviance/df=0.95
+    poisson: IRR=1.0049 (1.0018-1.0081), p=0.001990, deviance/df=88.96
+    negative_binomial: IRR=1.0244 (0.9995-1.0498), p=0.054717, deviance/df=0.95
   Spline df sensitivity:
-    df=3: IRR=0.9617, p=0.0012
-    df=5: IRR=0.9700, p=0.0122
-    df=7: IRR=1.0141, p=0.2636
-    df=9: IRR=1.0244, p=0.0547
+    df=3: IRR=0.9617 (0.9392-0.9847), p=0.0012
+    df=5: IRR=0.9700 (0.9472-0.9934), p=0.0122
+    df=7: IRR=1.0141 (0.9895-1.0394), p=0.2636
+    df=9: IRR=1.0244 (0.9995-1.0498), p=0.0547
   Kazoedoshi offset sensitivity:
-    offset=1: IRR=1.0244, p=0.0547
-    offset=2: IRR=1.0119, p=0.3555
+    offset=1: IRR=1.0244 (0.9995-1.0498), p=0.0547
+    offset=2: IRR=1.0119 (0.9869-1.0375), p=0.3555
   Era sensitivity:
-    postwar (1947-1960): IRR=1.0253, p=0.3625
-    growth (1961-1990): IRR=1.0098, p=0.1390
-    modern (1991-2024): IRR=1.0224, p=0.0047
+    postwar (1947-1960): IRR=1.0253 (0.9717-1.0818), p=0.3625
+    growth (1961-1990): IRR=1.0098 (0.9968-1.0230), p=0.1390
+    modern (1991-2024): IRR=1.0224 (1.0068-1.0382), p=0.0047
   Age range sensitivity:
-    15-80 (primary): IRR=1.0244, p=0.0547
-    20-70 (narrow): IRR=1.0033, p=0.8037
-    15-90 (wide): IRR=1.0216, p=0.1092
+    15-80 (primary): IRR=1.0244 (0.9995-1.0498), p=0.0547
+    20-70 (narrow): IRR=1.0033 (0.9776-1.0296), p=0.8037
+    15-90 (wide): IRR=1.0216 (0.9952-1.0486), p=0.1092
   Residual window sensitivity:
     window=+-2: d=+0.0334, p(perm)=0.2869
     window=+-3: d=+0.1073, p(perm)=0.0317
     window=+-4: d=-0.0983, p(perm)=0.9523
     window=+-5: d=-0.2252, p(perm)=1.0000
+

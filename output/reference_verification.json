@@ -375,8 +375,8 @@
   },
   {
     "ref_number": 13,
-    "status": "URL_DEAD",
-    "raw_text": "Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocol.pdf.",
+    "status": "URL_ONLY",
+    "raw_text": "Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocolV6.pdf.",
     "mismatched_fields": [],
     "manuscript_data": {
       "authors": "",
@@ -392,10 +392,8 @@
     "corrected_citation": "",
     "is_retracted": false,
     "retraction_doi": "",
-    "url_status": 404,
-    "notes": [
-      "URL returned HTTP 404"
-    ]
+    "url_status": 200,
+    "notes": []
   },
   {
     "ref_number": 14,

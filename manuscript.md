@@ -297,7 +297,7 @@ MS conceived the study, conducted the analysis, and wrote the manuscript.
 10. Austin PC, Mamdani MM, Juurlink DN, Hux JE. Testing multiple statistical hypotheses resulted in spurious associations: a study of astrological signs and health. J Clin Epidemiol. 2006;59(9):964-969. doi:10.1016/j.jclinepi.2006.01.012
 11. Kaku K. Increased induced abortion rate in 1966, an aspect of a Japanese folk superstition. Ann Hum Biol. 1975;2(2):111-115. doi:10.1080/03014467500000651
 12. National Institute of Population and Social Security Research. Japanese Mortality Database. Available at: https://www.ipss.go.jp/p-toukei/JMD/index.asp. Accessed 2026.
-13. Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocol.pdf.
+13. Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocolV6.pdf.
 14. Leor J, Poole WK, Kloner RA. Sudden cardiac death triggered by an earthquake. N Engl J Med. 1996;334(7):413-419. doi:10.1056/NEJM199602153340701
 
 ---

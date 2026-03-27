@@ -1,20 +1,13 @@
 # Reference Verification Report
 
-Generated: 2026-03-27 10:54
+Generated: 2026-03-27 11:38
 Tool: verify_refs.py (CrossRef API)
 
 ## Summary
 
 - Total references: 14
 - MATCH: 12
-- URL_ONLY: 1
-- URL_DEAD: 1
-
-## Issues Requiring Attention
-
-| Ref | Status | Fields | Details |
-|-----|--------|--------|---------|
-| [13] | URL_DEAD | - | URL returned HTTP 404 |
+- URL_ONLY: 2
 
 ## Full Results
 
@@ -32,5 +25,5 @@ Tool: verify_refs.py (CrossRef API)
 | [10] | MATCH | 10.1016/j.jclinepi.2006.01.012 | Resolved via DOI (high confidence) |
 | [11] | MATCH | 10.1080/03014467500000651 | Resolved via DOI (high confidence) |
 | [12] | URL_ONLY |  | - |
-| [13] | URL_DEAD |  | URL returned HTTP 404 |
+| [13] | URL_ONLY |  | - |
 | [14] | MATCH | 10.1056/nejm199602153340701 | Resolved via DOI (high confidence) |

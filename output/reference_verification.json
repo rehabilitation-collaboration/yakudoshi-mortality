@@ -10,7 +10,8 @@
       "journal": "",
       "year": "1993",
       "volume": "307",
-      "pages": "1584-1586"
+      "pages": "1584-1586",
+      "doi": "10.1136/bmj.307.6919.1584"
     },
     "crossref_data": {
       "title": "Is Friday the 13th bad for your health?",
@@ -22,8 +23,13 @@
       "authors": "Scanlon TJ, Luben RN, Scanlon FL, Singleton N"
     },
     "crossref_doi": "10.1136/bmj.307.6919.1584",
-    "crossref_score": 44.001522,
-    "corrected_citation": "Scanlon TJ, Luben RN, Scanlon FL, Singleton N. Is Friday the 13th bad for your health?. BMJ. 1993;307:1584-1586. doi:10.1136/bmj.307.6919.1584."
+    "corrected_citation": "Scanlon TJ, Luben RN, Scanlon FL, Singleton N. Is Friday the 13th bad for your health?. BMJ. 1993;307:1584-1586. doi:10.1136/bmj.307.6919.1584.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 2,
@@ -36,7 +42,8 @@
       "journal": "BMC Public Health",
       "year": "2004",
       "volume": "4",
-      "pages": ""
+      "pages": "",
+      "doi": "10.1186/1471-2458-4-54"
     },
     "crossref_data": {
       "title": "Females do not have more injury road accidents on Friday the 13th",
@@ -48,8 +55,13 @@
       "authors": "Radun I, Summala H"
     },
     "crossref_doi": "10.1186/1471-2458-4-54",
-    "crossref_score": 68.544235,
-    "corrected_citation": "Radun I, Summala H. Females do not have more injury road accidents on Friday the 13th. BMC Public Health. 2004;4:54. doi:10.1186/1471-2458-4-54."
+    "corrected_citation": "Radun I, Summala H. Females do not have more injury road accidents on Friday the 13th. BMC Public Health. 2004;4:54. doi:10.1186/1471-2458-4-54.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 3,
@@ -62,7 +74,8 @@
       "journal": "Ann Surg Open",
       "year": "2024",
       "volume": "5",
-      "pages": "e375"
+      "pages": "e375",
+      "doi": "10.1097/AS9.0000000000000375"
     },
     "crossref_data": {
       "title": "Superstition in Surgery: A Population-Based Cohort Study to Assess the Association Between Surgery on Friday the 13th and Postoperative Outcomes",
@@ -74,8 +87,13 @@
       "authors": "Ranganathan S, Riveros C, Geng M, Chang C, Tsugawa Y, Ravi B, Melchiode Z, Hu S, Kobashi K, Miles BJ, Klaassen Z, Nathens A, Coburn N, Detsky AS, Jerath A, Wallis CJD, Satkunasivam R"
     },
     "crossref_doi": "10.1097/as9.0000000000000375",
-    "crossref_score": 63.141315,
-    "corrected_citation": "Ranganathan S, Riveros C, Geng M, Chang C, Tsugawa Y, Ravi B, Melchiode Z, Hu S, Kobashi K, Miles BJ, Klaassen Z, Nathens A, Coburn N, Detsky AS, Jerath A, Wallis CJD, Satkunasivam R. Superstition in Surgery: A Population-Based Cohort Study to Assess the Association Between Surgery on Friday the 13th and Postoperative Outcomes. Annals of Surgery Open. 2024;5:e375. doi:10.1097/as9.0000000000000375."
+    "corrected_citation": "Ranganathan S, Riveros C, Geng M, Chang C, Tsugawa Y, Ravi B, Melchiode Z, Hu S, Kobashi K, Miles BJ, Klaassen Z, Nathens A, Coburn N, Detsky AS, Jerath A, Wallis CJD, Satkunasivam R. Superstition in Surgery: A Population-Based Cohort Study to Assess the Association Between Surgery on Friday the 13th and Postoperative Outcomes. Annals of Surgery Open. 2024;5:e375. doi:10.1097/as9.0000000000000375.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 4,
@@ -88,7 +106,8 @@
       "journal": "BMJ",
       "year": "2001",
       "volume": "323",
-      "pages": "1443-1446"
+      "pages": "1443-1446",
+      "doi": "10.1136/bmj.323.7327.1443"
     },
     "crossref_data": {
       "title": "The\n                    <i>Hound of the Baskervilles</i>\n                    effect: natural experiment on the influence of psychological stress on timing of death",
@@ -100,8 +119,13 @@
       "authors": "Phillips DP, Liu GC, Kwok K, Jarvinen JR, Zhang W, Abramson IS"
     },
     "crossref_doi": "10.1136/bmj.323.7327.1443",
-    "crossref_score": 60.724983,
-    "corrected_citation": "Phillips DP, Liu GC, Kwok K, Jarvinen JR, Zhang W, Abramson IS. The\n                    <i>Hound of the Baskervilles</i>\n                    effect: natural experiment on the influence of psychological stress on timing of death. BMJ. 2001;323:1443-1446. doi:10.1136/bmj.323.7327.1443."
+    "corrected_citation": "Phillips DP, Liu GC, Kwok K, Jarvinen JR, Zhang W, Abramson IS. The\n                    <i>Hound of the Baskervilles</i>\n                    effect: natural experiment on the influence of psychological stress on timing of death. BMJ. 2001;323:1443-1446. doi:10.1136/bmj.323.7327.1443.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 5,
@@ -114,7 +138,8 @@
       "journal": "Soc Sci Med",
       "year": "2008",
       "volume": "66",
-      "pages": "1990-1998"
+      "pages": "1990-1998",
+      "doi": "10.1016/j.socscimed.2008.01.014"
     },
     "crossref_data": {
       "title": "Belief in ghost month can help prevent drowning deaths: A natural experiment on the effects of cultural beliefs on risky behaviours",
@@ -126,8 +151,13 @@
       "authors": "Yang C, Huang Y, Janes C, Lin K, Lu T"
     },
     "crossref_doi": "10.1016/j.socscimed.2008.01.014",
-    "crossref_score": 90.71516,
-    "corrected_citation": "Yang C, Huang Y, Janes C, Lin K, Lu T. Belief in ghost month can help prevent drowning deaths: A natural experiment on the effects of cultural beliefs on risky behaviours. Social Science &amp; Medicine. 2008;66:1990-1998. doi:10.1016/j.socscimed.2008.01.014."
+    "corrected_citation": "Yang C, Huang Y, Janes C, Lin K, Lu T. Belief in ghost month can help prevent drowning deaths: A natural experiment on the effects of cultural beliefs on risky behaviours. Social Science &amp; Medicine. 2008;66:1990-1998. doi:10.1016/j.socscimed.2008.01.014.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 6,
@@ -140,7 +170,8 @@
       "journal": "BMJ Open",
       "year": "2019",
       "volume": "9",
-      "pages": "e025762"
+      "pages": "e025762",
+      "doi": "10.1136/bmjopen-2018-025762"
     },
     "crossref_data": {
       "title": "Does the ‘Chinese New Year effect’ exist? Hospital mortality in patients admitted to internal medicine departments during official consecutive holidays: a nationwide population-based cohort study",
@@ -152,8 +183,13 @@
       "authors": "Lin S, Wang J, Huang L, Huang H"
     },
     "crossref_doi": "10.1136/bmjopen-2018-025762",
-    "crossref_score": 111.81584,
-    "corrected_citation": "Lin S, Wang J, Huang L, Huang H. Does the ‘Chinese New Year effect’ exist? Hospital mortality in patients admitted to internal medicine departments during official consecutive holidays: a nationwide population-based cohort study. BMJ Open. 2019;9:e025762. doi:10.1136/bmjopen-2018-025762."
+    "corrected_citation": "Lin S, Wang J, Huang L, Huang H. Does the ‘Chinese New Year effect’ exist? Hospital mortality in patients admitted to internal medicine departments during official consecutive holidays: a nationwide population-based cohort study. BMJ Open. 2019;9:e025762. doi:10.1136/bmjopen-2018-025762.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 7,
@@ -166,7 +202,8 @@
       "journal": "BMJ",
       "year": "1998",
       "volume": "317",
-      "pages": "1680-1683"
+      "pages": "1680-1683",
+      "doi": "10.1136/bmj.317.7174.1680"
     },
     "crossref_data": {
       "title": "Influence of superstition on the date of hospital discharge and medical cost in Japan: retrospective and descriptive study",
@@ -178,8 +215,13 @@
       "authors": "Hira K, Fukui T, Endoh A, Rahman M, Maekawa M"
     },
     "crossref_doi": "10.1136/bmj.317.7174.1680",
-    "crossref_score": 63.52508,
-    "corrected_citation": "Hira K, Fukui T, Endoh A, Rahman M, Maekawa M. Influence of superstition on the date of hospital discharge and medical cost in Japan: retrospective and descriptive study. BMJ. 1998;317:1680-1683. doi:10.1136/bmj.317.7174.1680."
+    "corrected_citation": "Hira K, Fukui T, Endoh A, Rahman M, Maekawa M. Influence of superstition on the date of hospital discharge and medical cost in Japan: retrospective and descriptive study. BMJ. 1998;317:1680-1683. doi:10.1136/bmj.317.7174.1680.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 8,
@@ -192,7 +234,8 @@
       "journal": "",
       "year": "2003",
       "volume": "179",
-      "pages": "656-658"
+      "pages": "656-658",
+      "doi": "10.5694/j.1326-5377.2003.tb05741.x"
     },
     "crossref_data": {
       "title": "Is four a deadly number for the Chinese?",
@@ -204,8 +247,13 @@
       "authors": "Panesar NS, Chan NCY, Li SN, Lo JKY, Wong VWY, Yang IB, Yip EKY"
     },
     "crossref_doi": "10.5694/j.1326-5377.2003.tb05741.x",
-    "crossref_score": 22.857693,
-    "corrected_citation": "Panesar NS, Chan NCY, Li SN, Lo JKY, Wong VWY, Yang IB, Yip EKY. Is four a deadly number for the Chinese?. Medical Journal of Australia. 2003;179:656-658. doi:10.5694/j.1326-5377.2003.tb05741.x."
+    "corrected_citation": "Panesar NS, Chan NCY, Li SN, Lo JKY, Wong VWY, Yang IB, Yip EKY. Is four a deadly number for the Chinese?. Medical Journal of Australia. 2003;179:656-658. doi:10.5694/j.1326-5377.2003.tb05741.x.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 9,
@@ -218,7 +266,8 @@
       "journal": "",
       "year": "2002",
       "volume": "325",
-      "pages": "1442-1443"
+      "pages": "1442-1443",
+      "doi": "10.1136/bmj.325.7378.1442"
     },
     "crossref_data": {
       "title": "Scared to death?",
@@ -230,8 +279,13 @@
       "authors": "Smith G"
     },
     "crossref_doi": "10.1136/bmj.325.7378.1442",
-    "crossref_score": 31.479248,
-    "corrected_citation": "Smith G. Scared to death?. BMJ. 2002;325:1442-1443. doi:10.1136/bmj.325.7378.1442."
+    "corrected_citation": "Smith G. Scared to death?. BMJ. 2002;325:1442-1443. doi:10.1136/bmj.325.7378.1442.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 10,
@@ -244,7 +298,8 @@
       "journal": "J Clin Epidemiol",
       "year": "2006",
       "volume": "59",
-      "pages": "964-969"
+      "pages": "964-969",
+      "doi": "10.1016/j.jclinepi.2006.01.012"
     },
     "crossref_data": {
       "title": "Testing multiple statistical hypotheses resulted in spurious associations: a study of astrological signs and health",
@@ -256,8 +311,13 @@
       "authors": "Austin PC, Mamdani MM, Juurlink DN, Hux JE"
     },
     "crossref_doi": "10.1016/j.jclinepi.2006.01.012",
-    "crossref_score": 72.18695,
-    "corrected_citation": "Austin PC, Mamdani MM, Juurlink DN, Hux JE. Testing multiple statistical hypotheses resulted in spurious associations: a study of astrological signs and health. Journal of Clinical Epidemiology. 2006;59:964-969. doi:10.1016/j.jclinepi.2006.01.012."
+    "corrected_citation": "Austin PC, Mamdani MM, Juurlink DN, Hux JE. Testing multiple statistical hypotheses resulted in spurious associations: a study of astrological signs and health. Journal of Clinical Epidemiology. 2006;59:964-969. doi:10.1016/j.jclinepi.2006.01.012.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 11,
@@ -270,7 +330,8 @@
       "journal": "Ann Hum Biol",
       "year": "1975",
       "volume": "2",
-      "pages": "111-115"
+      "pages": "111-115",
+      "doi": "10.1080/03014467500000651"
     },
     "crossref_data": {
       "title": "Increased induced abortion rate in 1966, an aspect of a Japanese folk superstition",
@@ -282,8 +343,13 @@
       "authors": "Kaku K"
     },
     "crossref_doi": "10.1080/03014467500000651",
-    "crossref_score": 64.545456,
-    "corrected_citation": "Kaku K. Increased induced abortion rate in 1966, an aspect of a Japanese folk superstition. Annals of Human Biology. 1975;2:111-115. doi:10.1080/03014467500000651."
+    "corrected_citation": "Kaku K. Increased induced abortion rate in 1966, an aspect of a Japanese folk superstition. Annals of Human Biology. 1975;2:111-115. doi:10.1080/03014467500000651.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   },
   {
     "ref_number": 12,
@@ -291,35 +357,45 @@
     "raw_text": "National Institute of Population and Social Security Research. Japanese Mortality Database. Available at: https://www.ipss.go.jp/p-toukei/JMD/index.asp. Accessed 2026.",
     "mismatched_fields": [],
     "manuscript_data": {
-      "authors": "National Institute of Population and Social Security Research",
-      "title": "Japanese Mortality Database",
-      "journal": "",
-      "year": "2026",
-      "volume": "",
-      "pages": ""
-    },
-    "crossref_data": {},
-    "crossref_doi": "",
-    "crossref_score": 0.0,
-    "corrected_citation": ""
-  },
-  {
-    "ref_number": 13,
-    "status": "URL_ONLY",
-    "raw_text": "Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocol.pdf.",
-    "mismatched_fields": [],
-    "manuscript_data": {
-      "authors": "Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T",
-      "title": "Methods protocol for the Human Mortality Database",
+      "authors": "",
+      "title": "",
       "journal": "",
       "year": "",
       "volume": "",
-      "pages": ""
+      "pages": "",
+      "doi": ""
     },
     "crossref_data": {},
     "crossref_doi": "",
-    "crossref_score": 0.0,
-    "corrected_citation": ""
+    "corrected_citation": "",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 200,
+    "notes": []
+  },
+  {
+    "ref_number": 13,
+    "status": "URL_DEAD",
+    "raw_text": "Wilmoth JR, Andreev K, Jdanov D, Glei DA, Riffe T. Methods protocol for the Human Mortality Database. Available at: https://www.mortality.org/File/GetDocument/Public/Docs/MethodsProtocol.pdf.",
+    "mismatched_fields": [],
+    "manuscript_data": {
+      "authors": "",
+      "title": "",
+      "journal": "",
+      "year": "",
+      "volume": "",
+      "pages": "",
+      "doi": ""
+    },
+    "crossref_data": {},
+    "crossref_doi": "",
+    "corrected_citation": "",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 404,
+    "notes": [
+      "URL returned HTTP 404"
+    ]
   },
   {
     "ref_number": 14,
@@ -332,7 +408,8 @@
       "journal": "N Engl J Med",
       "year": "1996",
       "volume": "334",
-      "pages": "413-419"
+      "pages": "413-419",
+      "doi": "10.1056/NEJM199602153340701"
     },
     "crossref_data": {
       "title": "Sudden Cardiac Death Triggered by an Earthquake",
@@ -344,7 +421,12 @@
       "authors": "Leor J, Poole WK, Kloner RA"
     },
     "crossref_doi": "10.1056/nejm199602153340701",
-    "crossref_score": 34.744984,
-    "corrected_citation": "Leor J, Poole WK, Kloner RA. Sudden Cardiac Death Triggered by an Earthquake. New England Journal of Medicine. 1996;334:413-419. doi:10.1056/nejm199602153340701."
+    "corrected_citation": "Leor J, Poole WK, Kloner RA. Sudden Cardiac Death Triggered by an Earthquake. New England Journal of Medicine. 1996;334:413-419. doi:10.1056/nejm199602153340701.",
+    "is_retracted": false,
+    "retraction_doi": "",
+    "url_status": 0,
+    "notes": [
+      "Resolved via DOI (high confidence)"
+    ]
   }
 ]
